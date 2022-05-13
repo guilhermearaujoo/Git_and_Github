@@ -21,4 +21,5 @@ what a learned from git
 * git checkout <name of the branch> --> to change between branches
 * git merge <branch name> --> to get whatever a have to the other branch to my currently branch
  
+* To create a pahe on github a go to create a new repository, name it using <myusername.github.io>, create my simple site and commit it and push it. after that a I go to my repository, on settings I can see my website.
  and several more comands.
